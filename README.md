@@ -4,8 +4,10 @@ A simple Python project to check if a number is even or odd and calculate the su
 
 Write a Python program that:
 
-1.Takes an integer input from the user.
-2.Checks whether the number is even or odd using an if-else statement.
+1.Takes an integer input from the user.  
+
+2.Checks whether the number is even or odd using an if-else statement.  
+
 3.Displays the result accordingly.
 
 ## Expected Output:
@@ -29,12 +31,12 @@ Write a Python program that:
 3. Displays the final sum.
 
 ## Expected Output
-
+```
 The sum of integers from 1 to 50 is: 1275
-
+```
 ## Repository Structure
 
-*even_odd.py - Python script for Task 1
-*sum_integers.py - Python script for Task 2
-*README.md - Documentation of the project
+* even_odd.py - Python script for Task 1
+* sum_integers.py - Python script for Task 2
+* README.md - Documentation of the project
 
